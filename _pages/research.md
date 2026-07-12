@@ -36,7 +36,7 @@ The primary topics included
 - Greybody Factors
 - Eikonal Approximation
 
-This work resulted in a publication in *Physical Review D* which can be found [here](https://doi.org/10.1103/PhysRevD.111.064034).
+This work resulted in a publication in *Physical Review D* which can be found [here](https://doi.org/10.1103/PhysRevD.111.064034){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 
