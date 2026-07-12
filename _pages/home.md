@@ -28,14 +28,15 @@ Welcome to my academic homepage.
 
 I am a Ph.D. student in the Department of Theoretical Physics at the Tata Institute of Fundamental Research (TIFR), Mumbai. My current research focuses on string theory in AdS$_3$, conformal field theory, and Wess–Zumino–Witten (WZW) models.
 
-This website contains information about my research, publications, teaching, awards, and academic activities.
+This website contains information about my research, publications, teaching activities, awards, and academic achievements.
 
 ---
 
 ## Quick Links
 
-- [Research](/research/)
-- [Publications](/publications/)
-- [Teaching](/teaching/)
-- [Curriculum Vitae](/cv/)
-- [Contact](/contact/)
+- 📄 [Curriculum Vitae](/cv/)
+- 📚 [Publications](/publications/)
+- 🔬 [Research](/research/)
+- 👨‍🏫 [Teaching](/teaching/)
+- 🏆 [Awards](/awards/)
+- 📧 [Contact](/contact/)
