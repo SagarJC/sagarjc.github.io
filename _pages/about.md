@@ -2,8 +2,6 @@
 permalink: /about/
 title: "About"
 author_profile: true
-redirect_from:
-  - /about/
 ---
 
 I am **Sagar J C**, a Ph.D. student in the Department of Theoretical Physics at the **Tata Institute of Fundamental Research (TIFR), Mumbai**.
