@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 My research lies at the intersection of **String Theory**, **Conformal Field Theory**, and **Quantum Gravity**. I am particularly interested in exact worldsheet descriptions of string theory in curved spacetimes, and the mathematical structures underlying these theories.
 
 ### Current Research
