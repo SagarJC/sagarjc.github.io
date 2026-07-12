@@ -12,8 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Sagar J C"
 title_separator          : "-"
 name                     : &name "Sagar J C"
-description              : &description "Personal website of Sagar J C"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://sagarjc.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Academic homepage of Sagar J C"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://sagarjc.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SagarJC/sagarjc.github.io" #https://github.com/SagarJC/sagarjc.github.io
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "2nd-year Ph.D. Student in the Department of Theoretical Physics at TIFR Mumbai. My research interests include String Theory, Conformal Field Theory, AdS/CFT correspondence, Black Hole Physics and Quantum Gravity."
   location         : "Mumbai, India"
-  employer         : "Tata Institute of Fundamental Research Mumbai"
+  employer         : "Tata Institute of Fundamental Research Mumbai (TIFRM)"
   uri              : # URL
   email            : "jcsagar195@gmail.com" 
 
