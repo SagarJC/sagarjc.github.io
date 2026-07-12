@@ -1,9 +1,8 @@
-<div class="page__footer-copyright">
-  <p>
-    &copy; {{ site.time | date: '%Y' }} <strong>{{ site.name | default: site.title }}</strong>
-    &bull;
-    Last updated {{ "now" | date: "%B %Y" }}
-    &bull;
-    <a href="/sitemap/">Sitemap</a>
-  </p>
+<div class="page__footer-copyright" style="font-size: 1.1rem; text-align: center; padding: 0.8rem 0;">
+  &copy; {{ site.time | date: '%Y' }}
+  {{ page.title }}
+  &bull;
+  Last updated {{ "now" | date: "%B %Y" }}
+  &bull;
+  <a href="/sitemap/">Sitemap</a>
 </div>
