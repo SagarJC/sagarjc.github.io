@@ -18,7 +18,7 @@ The primary topics I am currently studying include
 - Spectral flow symmetry
 - Representation theory of strings in AdS₃
 - Physical Spectrum of strings in AdS₃
-- Bosonization and Scattering amplitudes of strings in AdS$_3$
+- Bosonization and Scattering amplitudes of strings in AdS₃
 
 These studies aim to provide a deeper understanding of string dynamics in curved spacetimes and their connection to holography through the AdS/CFT correspondence.
 
