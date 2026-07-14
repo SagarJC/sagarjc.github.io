@@ -12,7 +12,7 @@ This page contains my personal study notes prepared while learning various topic
 
 These notes are made referring Polchinski's String Theory Volume 1 with some help from "A Companion Reader to Polchinski String Theory by Stany M. Schrans". 
 
-➡️ [Bosonic String Theory Notes](/bosonic-string-notes/)
+➡️ [Bosonic String Theory Notes](/bosonic-string-theory-notes/)
 
 ---
 
