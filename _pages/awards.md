@@ -9,7 +9,7 @@ This page summarizes my academic awards, competitive examination achievements, a
 
 ---
 
-## Academic Honors
+# Academic Honors
 
 ### Board Chairman's Gold Medal
 **National Institute of Technology Karnataka (NITK), Surathkal**  
@@ -19,7 +19,7 @@ Awarded the **Board Chairman's Gold Medal** for securing the **highest CGPA (10.
 
 ---
 
-### K. Subbarayappa Gold Medal
+## K. Subbarayappa Gold Medal
 **National Institute of Technology Karnataka (NITK), Surathkal**  
 November 2024
 
@@ -27,7 +27,7 @@ Awarded the **K. Subbarayappa Gold Medal** for achieving the **best academic per
 
 ---
 
-### Gold Medal in Physics
+## Gold Medal in Physics
 **St. Joseph's College (now St. Joseph's University), Bengaluru**  
 April 2024
 
@@ -35,7 +35,7 @@ Awarded for securing the highest academic performance in Physics during the B.Sc
 
 ---
 
-### Gold Medal in Chemistry
+## Gold Medal in Chemistry
 **St. Joseph's College (now St. Joseph's University), Bengaluru**  
 April 2024
 
@@ -43,7 +43,7 @@ Awarded for securing the highest academic performance in Chemistry during the B.
 
 ---
 
-### Silver Medal in Mathematics
+## Silver Medal in Mathematics
 **St. Joseph's College (now St. Joseph's University), Bengaluru**  
 April 2024
 
@@ -51,7 +51,7 @@ Awarded for outstanding academic performance in Mathematics during the B.Sc. pro
 
 ---
 
-## Competitive Examinations
+# Competitive Examinations
 
 - **GATE Physics 2023** — AIR **492**
 - **Joint Admission Test for M.Sc. (JAM) Physics 2022** — AIR **697**
@@ -59,24 +59,20 @@ Awarded for outstanding academic performance in Mathematics during the B.Sc. pro
 
 ---
 
-## Competitions & Recognition
+# Competitions & Recognition
 
-### International Physicists' Tournament 2022
+## International Physicists' Tournament 2022
 
 Served as the **Captain of the Indian team** that successfully cleared the international pre-selection round and qualified for the final international stage.
 
 ---
 
-### First Place in World Asteroid Day Quiz Competition
+## First Place in World Asteroid Day Quiz Competition
 **REVA University, Bengaluru**  
 June 2021
 
 ---
 
-### First Place in World Asteroid Day Presentation Competition
+## First Place in World Asteroid Day Presentation Competition
 **REVA University, Bengaluru**  
 June 2021
-
-Score: **76/100 (Elite + Silver)**
-
-Completed in 2024.
