@@ -8,7 +8,7 @@ My research lies at the intersection of **String Theory**, **Conformal Field The
 
 ### Current Research
 
-My current work focuses on the exact worldsheet description of string propagation on AdS₃ manifold using the **SL(2,ℝ) Wess–Zumino–Witten (WZW) model**.
+My current work focuses on the exact worldsheet description of string propagation on the AdS₃ manifold using the **SL(2,ℝ) Wess–Zumino–Witten (WZW) model**.
 
 The primary topics I am currently studying include
 
@@ -30,13 +30,13 @@ During my Master's research, I worked on problems in black hole physics and grav
 
 The primary topics included
 
-- Blackhole surrounded by Anisotropic matter field
+- Black hole surrounded by an anisotropic matter field
 - Quasinormal Modes through Scalar, EM and Gravitational Perturbations
-- Black shadow radius and Lyaponov exponent
+- Black shadow radius and Lyapunov exponent
 - Greybody Factors
 - Eikonal Approximation
 
-This work resulted in a publication in *Physical Review D* which can be found [here](https://doi.org/10.1103/PhysRevD.111.064034){:target="_blank" rel="noopener noreferrer"}.
+This work resulted in a publication in *Physical Review D*, which can be found [here](https://doi.org/10.1103/PhysRevD.111.064034){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 

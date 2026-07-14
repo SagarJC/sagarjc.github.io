@@ -16,8 +16,8 @@ Coming soon.
 
 ### DP-I — String Theory on AdS₃: The SL(2,ℝ) Wess–Zumino–Witten Model
 
-- 📄 [Project Report](/files/reports/DP1/TIFRM_DP_1_report.pdf)
-- 📑 [Detailed Calculations](/files/reports/DP1/DP1_Strings_in_AdS3.pdf)
+- 📄 [Project Report](/resources/reports/DP1/TIFRM_DP_1_report.pdf)
+- 📑 [Detailed Calculations](/resources/reports/DP1/DP1_Strings_in_AdS3.pdf)
 
 ---
 
