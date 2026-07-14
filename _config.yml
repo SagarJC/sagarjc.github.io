@@ -14,11 +14,11 @@ title_separator          : "-"
 name                     : &name "Sagar J C"
 description              : &description "Academic homepage of Sagar J C"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sagarjc.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+                                                           # or if you already have some other page hosted on GitHub, then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SagarJC/sagarjc.github.io" #https://github.com/SagarJC/sagarjc.github.io
 
-# Site Author - The following control what appear as part of the author content on the side bar.
+# Site Author - The following control what appear as part of the author content on the sidebar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Sagar J C"
   pronouns         : # example: "she/her"  
-  bio              : "2nd-year Ph.D. Student in the Department of Theoretical Physics at TIFR Mumbai. My research interests include String Theory, Conformal Field Theory, AdS/CFT correspondence, Black Hole Physics and Quantum Gravity."
+  bio              : "2nd-year Ph.D. Student in the Department of Theoretical Physics at TIFR Mumbai."
   location         : "Mumbai, India"
   employer         : "TIFR Mumbai"
   uri              : # URL
