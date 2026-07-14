@@ -13,7 +13,7 @@ This section contains research reports, reading notes, etc, related to my academ
 
 Departmental projects, theses, and technical reports.
 
-➡️ **[Open Research Reports](/reports/)**
+➡️ **[Open Research Reports](/resources/reports/)**
 
 ---
 
@@ -21,5 +21,5 @@ Departmental projects, theses, and technical reports.
 
 Personal notes prepared while studying various topics in theoretical physics.
 
-➡️ **[Open Reading Notes](/notes/)**
+➡️ **[Open Reading Notes](/resources/notes/)**
 
