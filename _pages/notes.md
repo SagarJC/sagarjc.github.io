@@ -1,6 +1,10 @@
-# Reading Notes
+---
+title: "Reading Notes"
+permalink: /notes/
+author_profile: true
+---
 
-These are personal notes prepared while studying various topics in theoretical physics.
+This page contains my personal study notes prepared while learning various topics in theoretical physics. The notes are intended primarily for my own reference, but they may also be useful to students and researchers studying similar subjects.
 
 ---
 
