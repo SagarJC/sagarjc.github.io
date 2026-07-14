@@ -40,7 +40,7 @@ This work resulted in a publication in *Physical Review D*, which can be found [
 
 ---
 
-# Future Directions
+### Future Directions
 
 Some of the problems that particularly interest me include
 
