@@ -1,6 +1,6 @@
 ---
 title: "Technical Reports"
-permalink: /reports/
+permalink: /resources/reports/
 author_profile: true
 ---
 
