@@ -7,16 +7,19 @@ author_profile: true
 This section contains research reports, reading notes, etc, related to my academic work.
 <br>
 
+---
+
 # Research Reports
 
-## Departmental Projects
+Departmental projects, theses, and technical reports.
 
-### DP-1 : String Theory on AdS₃ – SL(2,ℝ) WZW Model
+➡️ **[Open Research Reports](/reports/)**
 
-- 📄 [Report](/files/reports/DP1/TIFRM_DP_1_report.pdf)
+---
 
-- 📑 [Detailed Calculations](/files/reports/DP1/DP1_Strings_in_AdS3.pdf)
+# 📚 Reading Notes
 
-### DP-2
+Personal notes prepared while studying various topics in theoretical physics.
 
-Coming soon.
+➡️ **[Open Reading Notes](/notes/)**
+
