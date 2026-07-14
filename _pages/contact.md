@@ -27,13 +27,13 @@ I am always happy to discuss research in string theory, conformal field theory, 
 
 ## Postal
 
-Sagar J C,
-TIFR Residential Complex,
-Tata Institute of Fundamental Research - Mumbai,
-Dr. Homi Bhabha Road,
-Navy Nagar,
-Colaba,  
-Mumbai – 400005,  
+Sagar J C,                                     
+TIFR Residential Complex,                      
+Tata Institute of Fundamental Research - Mumbai,  
+Dr. Homi Bhabha Road,                          
+Navy Nagar,                                     
+Colaba,                                        
+Mumbai – 400005,                                
 India
 
 ---
