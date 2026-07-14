@@ -11,7 +11,7 @@ This page summarizes my academic awards, competitive examination achievements, a
 
 # Academic Honors
 
-### Board Chairman's Gold Medal
+## Board Chairman's Gold Medal
 **National Institute of Technology Karnataka (NITK), Surathkal**  
 November 2024
 
