@@ -4,7 +4,7 @@ permalink: /resources/notes/bosonic-string-theory-notes/
 author_profile: true
 ---
 
-This page contains my personal notes prepared while studying Polchinski's String Theory Volume 1. The notes follow the structure of the textbook and include detailed derivations, explanations, and supplementary calculations. I have taken some help from "A Companion Reader to Polchinski String Theory by Stany M. Schrans".
+This page contains my personal notes prepared while studying Polchinski's String Theory Vol-1. The notes follow the structure of the textbook and include detailed derivations, explanations, and supplementary calculations. I have taken some help from "A Companion Reader to Polchinski String Theory by Stany M. Schrans".
 
 ---
 # Chapter 1 — A first look at strings
