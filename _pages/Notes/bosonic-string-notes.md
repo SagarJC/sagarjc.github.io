@@ -43,25 +43,25 @@ This page contains my personal notes prepared while studying Polchinski's String
 ---
 # Chapter 3 — The Polyakov path integral
 
-- 📄 [Sums Over World-Sheets](/files/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-1_Sums-Over-World-Sheets.pdf)
+- 📄 [Sums Over World-Sheets](/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-1_Sums-Over-World-Sheets.pdf)
 
-- 📄 [Couplings and Topological Terms in the Polyakov Action](/files/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-2_Couplings-and-Topological-term-in-Polyakov-Action.pdf)
+- 📄 [Couplings and Topological Terms in the Polyakov Action](/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-2_Couplings-and-Topological-term-in-Polyakov-Action.pdf)
 
-- 📄 [Gauge Fixing and the Faddeev–Popov Determinant](/files/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-3_Gauge-fixing-and-Faddeev-Popov-Determinant.pdf)
+- 📄 [Gauge Fixing and the Faddeev–Popov Determinant](/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-3_Gauge-fixing-and-Faddeev-Popov-Determinant.pdf)
 
-- 📄 [Weyl Anomaly](/files/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-4_Weyl-Anomaly.pdf)
+- 📄 [Weyl Anomaly](/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-4_Weyl-Anomaly.pdf)
 
-- 📄 [Scattering Amplitudes](/files/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-5_Scattering-Amplitudes.pdf)
+- 📄 [Scattering Amplitudes](/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-5_Scattering-Amplitudes.pdf)
 
-- 📄 [Vertex Operators and Strings in Flat Spacetime](/files/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-6_Vertex-Operators-and-Strings-in-Flat-Spacetime.pdf)
+- 📄 [Vertex Operators and Strings in Flat Spacetime](/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-6_Vertex-Operators-and-Strings-in-Flat-Spacetime.pdf)
 
-- 📄 [Strings in Curved Spacetime](/files/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-7_Strings-in-Curved-Space-time.pdf)
+- 📄 [Strings in Curved Spacetime](/resources/notes/bosonic-string-theory-notes/chapter-3/ch-3_section-7_Strings-in-Curved-Space-time.pdf)
 
 ---
 # Chapter 4 — The string spectrum
 
-- 📄 [Old Covariant Quantization (OCQ)](/files/resources/notes/bosonic-string-theory-notes/chapter-4/ch-4_section-1_Old-Covariant-Quantization-(OCQ).pdf)
+- 📄 [Old Covariant Quantization (OCQ)](/resources/notes/bosonic-string-theory-notes/chapter-4/ch-4_section-1_Old-Covariant-Quantization-(OCQ).pdf)
 
-- 📄 [BRST Quantization](/files/resources/notes/bosonic-string-theory-notes/chapter-4/ch-4_section-2_BRST-Quantization.pdf)
+- 📄 [BRST Quantization](/resources/notes/bosonic-string-theory-notes/chapter-4/ch-4_section-2_BRST-Quantization.pdf)
 
-- 📄 [BRST Quantization of the String](/files/resources/notes/bosonic-string-theory-notes/chapter-4/ch-4_section-3_BRST-Quantization-of-the-string.pdf)
+- 📄 [BRST Quantization of the String](/resources/notes/bosonic-string-theory-notes/chapter-4/ch-4_section-3_BRST-Quantization-of-the-string.pdf)
