@@ -4,11 +4,7 @@ permalink: /resources/notes/qft-notes/
 author_profile: true
 ---
 
-This page contains my personal notes on quantum field theory, including classical field theory, canonical quantization, scattering theory, quantum electrodynamics, path integrals, and related topics. These notes are made referring to the following books. 
-- QFT for the gifted amateur by Lancaster and Blundell
-- Introduction to QFT by Peskin and Schroeder
-- QFT in a Nutshell and Group theory in a Nutshell by Anthony Zee
-- etc.
+This page contains my personal notes on quantum field theory, including classical field theory, canonical quantization, scattering theory, quantum electrodynamics, path integrals, and related topics. These notes are made referring to QFT for the gifted amateur by Lancaster and Blundell, Introduction to QFT by Peskin and Schroeder, QFT in a Nutshell and Group theory in a Nutshell by Anthony Zee, etc.
 
 ---
 
