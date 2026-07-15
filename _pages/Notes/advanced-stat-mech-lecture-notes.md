@@ -1,6 +1,6 @@
 ---
 title: "Advanced Statistical Mechanics Lecture Notes"
-permalink: /resources/notes/advanced-stat-mech-notes/
+permalink: /resources/notes/
 author_profile: true
 ---
 
