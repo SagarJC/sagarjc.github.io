@@ -24,6 +24,16 @@ These notes are made referring to the following books. QFT for the gifted amateu
 
 ---
 
-## Conformal Field Theory
+### Conformal Field Theory
 
 Coming soon.
+
+---
+
+➡️ [Advanced Statistical Mechanics Lecture Notes](/resources/notes/advanced-stat-mech-notes/)
+
+These are my lecture notes from the course **Advanced Statistical Mechanics**, taught by **Prof. Mustansir Barma** during the Fall 2025 semester at TIFR Hyderabad. The notes cover equilibrium statistical mechanics, phase transitions, critical phenomena, percolation theory, and renormalization group methods.
+
+---
+
+
