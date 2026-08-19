@@ -64,3 +64,5 @@ This page contains my personal notes prepared while studying Polchinski's String
 - 📄 [BRST Quantization](/resources/notes/bosonic-string-theory-notes/chapter-4/ch-4_section-2_BRST-Quantization.pdf)
 
 - 📄 [BRST Quantization of the String](/resources/notes/bosonic-string-theory-notes/chapter-4/ch-4_section-3_BRST-Quantization-of-the-string.pdf)
+
+- 📄 [BRST No Ghost Theorem](/resources/notes/bosonic-string-theory-notes/chapter-4/ch-4_section-4_BRST-No-Ghost-Theorem.pdf)
