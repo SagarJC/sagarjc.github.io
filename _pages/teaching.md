@@ -12,7 +12,7 @@ My teaching experience includes serving as a Teaching Assistant at the Tata Inst
 ## Tata Institute of Fundamental Research (TIFR), Mumbai
 
 ### Teaching Assistant
-**Mathematical Methods for Physicists** *(Upcoming Semester)*
+**Mathematical Methods for Physicists** *(August 2026 - December 2026)*
 
 **Instructor:** Dr. Abhijit Gadde
 
@@ -25,6 +25,7 @@ Department of Theoretical Physics, TIFR Mumbai
 - Clarify concepts discussed during lectures.
 - Evaluate assignments and provide academic support.
 
+📄 [Group Theory For Physicists Notes](/resources/notes/Group_Theory_for_Physicists.pdf)
 ---
 
 ## Tata Institute of Fundamental Research (TIFR), Hyderabad
